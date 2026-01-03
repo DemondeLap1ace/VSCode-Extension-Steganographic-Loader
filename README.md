@@ -1,0 +1,2 @@
+# VSCode-Extension-Steganographic-Loader
+VSCode扩展环境的隐写加载器实现，通过将攻击逻辑注入PNG像素实现武器化，在运行时利用上下文感知能力定位目标工作区，实施内存级IaC配置文件劫持。
