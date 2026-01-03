@@ -1,0 +1,18 @@
+{
+  "name": "vscode-malicious-demo-fixed",
+  "displayName": "VS Code Malicious Demo ",
+  "version": "2.0.0",
+  "publisher": "SecurityResearch",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "demo.runPayload",
+        "title": "Run Demo Extension"
+      }
+    ]
+  }
+}
