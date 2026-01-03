@@ -1,6 +1,3 @@
-
-
-
 const fs = fs_arg;
 const path = path_arg;
 const exec = exec_arg;
