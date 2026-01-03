@@ -4,6 +4,8 @@
 
 沿用了隐写术隐藏，借鉴了用PNG文件藏匿恶Payload来绕过 VS Code Marketplace的基础静态扫描以及传统的基于特征码的磁盘扫描。
 
+![ ](/img/mml.png)
+
 **v1.0**:本地复现。所有攻击逻辑、Payload 触发及文件篡改均在本地环境完成，No Outbound Traffic。
 
 V1.0：
